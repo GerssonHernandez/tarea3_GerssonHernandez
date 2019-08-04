@@ -1,0 +1,17 @@
+{
+  "name": "async-await_tareapais",
+  "version": "1.0.0",
+  "description": "Tarea Información de  País",
+  "main": "await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gersson Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "prompt": "^1.0.0",
+    "read-line": "^0.1.2",
+    "save": "^2.4.0"
+  }
+}
