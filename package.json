@@ -9,7 +9,7 @@
   "author": "Gersson Hernandez",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "prompt": "^1.0.0",
     "read-line": "^0.1.2",
     "save": "^2.4.0"
